@@ -27,6 +27,8 @@ hs_err_pid*
 # Prerequisites
 *.d
 
+server
+
 # Object files
 *.o
 *.ko
